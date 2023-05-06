@@ -1,0 +1,33 @@
+	<div class ="frame">
+            <div class="profile-pic-div">
+                <img class = "profile-pic" src="1682867905748895.jpg" alt="">
+            </div>
+
+            <p class="profile-name">Juan Carlos</p>
+
+            <div class="mutual-friends-div">
+                <img class = "mutual-friends-pic" src="mein fuhrer.jpg" alt="">
+                <p class="mutual-friends-text-2">57 mutual friends</p>
+            </div>
+            
+            <button class="add-friend-button-2">
+                Add Friend
+            </button>
+        </div>
+
+        <div class ="frame">
+            <div class="profile-pic-div">
+                <img class = "profile-pic" src="avatars-t7q3glVq31qtRUw2-VDsc4w-t500x500.jpg" alt="">
+            </div>
+
+            <p class="profile-name">Lil Broomstick</p>
+
+            <div class="mutual-friends-div">
+                <img class = "mutual-friends-pic" src="meme-lucky-luciano-garoto-playboy-18012019155303720.jpeg" alt="">
+                <p class="mutual-friends-text-2">33 mutual friends</p>
+            </div>
+            
+            <button class="add-friend-button-2">
+                Add Friend
+            </button>
+        </div>
